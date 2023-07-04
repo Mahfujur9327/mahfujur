@@ -19,7 +19,7 @@
       
       </div>
       <div class="links">
-        <a href='pdfs/Abdullah_resume.pdf' target="_blank"><button>View Resume</button></a>
+        <a href='Mahfujur Rahman Curriculum vitae (2).pdf' target="_blank"><button>View Resume</button></a>
         <div class="icons">
           <a href="https://www.linkedin.com/in/newabdullah/" target="_blank"><i class="fab fa-linkedin fa-3x"></i></a>
           <a href="https://github.com/pwaabdullah/" target="_blank"><i class="fab fa-github fa-3x"></i></a>
